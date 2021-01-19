@@ -1,2 +1,2 @@
 # resources
-All 
+Resources used by hobrinsseedoverlay, mainly for for updating.
