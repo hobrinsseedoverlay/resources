@@ -1,0 +1,15 @@
+{
+  "versions": [
+    {
+      "name": "The Example Update",
+      "changelog": "Fixed ...",
+      "id": 1,
+      "download": "https://",
+      "rank": "HIGH",
+      "disableOld": false
+    }
+  ],
+  "help": "Please contact hobrin for help.",
+  "custom": "",
+  "latest": 1
+}
